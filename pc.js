@@ -14,7 +14,9 @@ var attributes = [
     // Cloth Materials
     "cotton", "denim", "leather", "linen", "rubber", "silk", "straw", "suede", "wool", "woolen",
     //Colors
-    "amber", "beige", "black", "blue", "brown", "crimson", "cyan", "gray", "green", "indigo", "khaki", "orange", "pink", "purple", "red", "violet", "white", "yellow"
+    "amber", "beige", "black", "blue", "brown", "crimson", "cyan", "gray", "green", "indigo", "khaki", "orange", "pink", "purple", "red", "violet", "white", "yellow",
+    //Adjectives
+    "angry", "beautiful", "brave", "careful", "careless", "clever", "crazy", "cute", "dangerous", "exciting", "famous", "friendly", "happy", "interesting", "lucky", "old", "poor", "popular", "rich", "sad", "thin", "ugly", "unlucky", "young",
 ]
 
 var objects = [
@@ -49,8 +51,17 @@ var objects = [
     //Insects
     "ant", "bee", "beetle", "butterfly", "caterpillar", "centipede", "cockroach", "cricket", "dragonfly", "flea", "fly", "grasshopper", "grub", "ladybug", "maggot", "mosquito", "moth", "spider", "termite", "tick", "wasp",
     //Dog Breeds
-    "Hound", "Airedale", "Terrier", "Basenji", "Basset", "Beagle", "Bloodhound", "Collie", "Boxer", "Bulldog", "Chihuahua", "Spaniel", "Corgi", "Dachshund", "Dalmatian", "Doberman", "Shepherd", "Retriever", "Dane", "Greyhound", "Setter", "Labrador", "Apso", "Newfoundland", "Pekingese", "PitBull", "Pointer", "Pomeranian", "Poodle", "Schnauzer", "Sheepdog", "Husky", "Spaniel", "Spitz"
-
+    "Hound", "Airedale", "Terrier", "Basenji", "Basset", "Beagle", "Bloodhound", "Collie", "Boxer", "Bulldog", "Chihuahua", "Spaniel", "Corgi", "Dachshund", "Dalmatian", "Doberman", "Shepherd", "Retriever", "Dane", "Greyhound", "Setter", "Labrador", "Apso", "Newfoundland", "Pekingese", "PitBull", "Pointer", "Pomeranian", "Poodle", "Schnauzer", "Sheepdog", "Husky", "Spaniel", "Spitz",
+    //Geography
+    "beach", "desert", "forest", "hill", "mountain", "ocean", "pond", "river", "lake", "sea", "stream", "valley", "waterfall", "woods",
+    //Tools
+    "drill", "hammer", "knife", "plane", "pliers", "saw", "scissors", "screwdriver", "vise", "wrench",
+    //Carparts
+    "accelerator", "battery", "blinker", "brake", "bumper", "clutch", "dashboard", "gear", "headlight", "horn", "hubcap", "mirror", "seat", "speedometer", "taillight", "tire", "trunk", "signal", "wheel", "windshield", "wiper",
+    //Deserts
+    "pie", "cake", "candy", "chocolate", "cookie", "donut", "doughnut", "fruit", "muffin", "pie", "pudding",
+    //Vegetables
+    "asparagus", "beans", "broccoli", "cabbage", "carrot", "celery", "corn", "cucumber", "eggplant", "lettuce", "onion", "peas", "potato", "pumpkin", "radish", "spinach", "tomato", "turnip"
 ]
 
 var type = "PROJECT";
